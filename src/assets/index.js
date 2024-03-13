@@ -1,0 +1,12 @@
+// export { default as logo } from "./logo/logo.png";
+export { default as hanger } from "./Home/Hanger.png";
+export { default as shopping } from "./Home/Shopping Cart.png";
+export { default as payment } from "./Home/Card Payment.png";
+export { default as tiktok } from "./Home/tiktok.png";
+export { default as edit } from "./Home/Edit Property.png";
+export { default as facebook } from "./Home/Facebook.png";
+export { default as twitter } from "./Home/TwitterX.png";
+export { default as instagram } from "./Home/Instagram.png";
+export { default as firstCircle } from "./Contact/Ellipse 15.png";
+export { default as secondCircle } from "./Contact/Ellipse 16.png";
+export { default as bigTwoCircle } from "./circle-big.png";

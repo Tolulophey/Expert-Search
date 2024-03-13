@@ -1,0 +1,5 @@
+export {default as teeBridalSlide1} from "./tees-bridal.webp"
+export {default as teeBridalSlide2} from "./tees-bridal2.webp"
+export {default as teeBridalSlide3} from "./tees-bridal3.webp"
+export {default as teeBridalSlide4} from "./tees-bridal4.webp"
+export {default as teeBridalSlide5} from "./tees-bridal5.webp"

@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #4f4f4f;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+input {
+  width: 100%;
+}
+li{
+  list-style-type: none;
+}
+
+/* styles for date picker */
+
+.react-datepicker-wrapper input {
+  border: 1px solid #20202080 !important;
+  border-radius: 6px;
+  padding-top: 9px !important;
+  padding-bottom: 9px !important;
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
